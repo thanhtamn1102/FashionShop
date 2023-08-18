@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45453d6d-9f0e-43d6-b3c0-e7355c5ace2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/quan_huyen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tinh_tp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/xa_phuong.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/FashionShopApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormBanHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormChucVuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormDanhMucSanPhamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormDonNhapHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormHoaDonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormKhachHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormKiemKeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormNhaCungCapController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormNhanVienController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormPhieuKiemKeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormQLKichThuocController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormQLMauSacController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormQLNuocSanXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormQLThuongHieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormQuanLyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormResetPasswordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormSanPhamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormTaiKhoanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormTaiKhoanNhanVienController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormThemSPVaoDNH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormThemSPVaoPKK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/FormThongBaoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageBanHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageCaiDatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageChucVuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageDanhMucSanPhamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageDashboardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageDonHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageDonNhapHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageHoaDonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageKhachHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageKiemKeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageNhaCungCapController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageNhanVienController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PagePhieuNhapHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageSanPhamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageTaiKhoanNhanVienController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageThongKeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/controller/PageVaiTroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/AutoCompleteTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/CardsPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/ChiTietDonNhapHangItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/ChiTietPhieuKiemItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/FormCreateNewPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/FormXacThucResetPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/OrderDetailItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/OrderDetailItemOrderView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/ProductItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/ProductItem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/ProductItemCategoryView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/ProductItemSearchView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/cus_comp/ReadOnlyObjectWrapperTableColume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/ChiTietDonHangDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/ChucVuDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/DanhMucDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/DonHangDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/DonNhapHangDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/KhachHangDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/KichThuocDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/MauSacDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/NhaCungCapDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/NhanVienDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/NhomQuyenDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/NuocSanXuatDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/PhieuKiemKeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/QuanHuyenDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/SanPhamDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/TaiKhoanDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/ThuongHieuDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/TinhTPDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/VaiTroDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/dao/XaPhuongDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/excel_processing/ProductExcelProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/ChiTietDonHangServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/DanhMucImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/DonNhapHangImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/KichThuocImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/MauSacImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/NhaCungCapImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/NhanVienServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/NuocSanXuatImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/PhieuKiemKeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/QuanHuyenServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/SanPhamImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/ThuongHieuImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/TinhTPServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/impl/XaPhuongServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietDonHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietDonHangID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietDonHangProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietDonNhapHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietDonNhapHangID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietDonNhapHangProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietPhieuKiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietPhieuKiemID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietPhieuNhapHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChiTietPhieuNhapHangID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ChucVu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/DanhMuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/DiaChi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/DonHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/DonHangProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/DonNhapHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/DonNhapHangProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/DonNhapHangStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/KhachHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/KichThuoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/MauSac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/NhaCungCap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/NhomQuyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/NuocSanXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/PhieuKiemKe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/PhieuKiemKeStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/PhieuNhapHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/PhieuNhapHangStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/QuanHuyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/Quyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/SanPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/TaiKhoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/ThuongHieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/TinhTP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/VaiTro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/VaiTroNhomQuyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/VaiTroNhomQuyenID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/VaiTroQuyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/VaiTroQuyenID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/model/XaPhuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/ChiTietDonHangService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/DanhMucService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/DonNhapHangService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/KichThuocService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/MauSacService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/NhaCungCapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/NhanVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/NuocSanXuatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/PhieuKiemKeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/QuanHuyenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/SanPhamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/ThuongHieuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/TinhTPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/service/XaPhuongService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/utils/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/utils/HibernateUtlis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/utils/IDUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/utils/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fashionshop/values/Icons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/chi-tiet-don-nhap-hang-item.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/chi-tiet-phieu-kiem-item.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/form-create-new-password.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/form-xac-thuc-reset-password.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/menu-item.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/order-detail-item-order-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/order-detail-item.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/order-item.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/product-item-1.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/product-item-category-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/product-item-search-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/cus_comp_views/product-item.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/drawable/background-form-reset-pasword.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/drawable/background-login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/drawable/no-image_available.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-ban-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-cai-dat.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-chuc-vu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-danh-muc-san-pham.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-dashboard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-don-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-don-nhap-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-hoa-don.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-khach-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-kiem-ke.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-nha-cung-cap.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-nhan-vien.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-phieu-nhap-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-san-pham.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-tai-khoan-nhan-vien.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-thong-ke.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/pages/page-vai-tro.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-ban-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-chuc-vu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-danh-muc-san-pham.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-don-nhap-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-khach-hang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-kiem-ke.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-nha-cung-cap.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-nhan-vien.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-phieu-kiem-ke.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-ql-kich-thuoc.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-ql-mau-sac.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-ql-nuoc-san-xuat.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-ql-thuong-hieu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-quan-ly.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-reset-password.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-san-pham.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-tai-khoan-nhan-vien.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-tai-khoan.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-them-sp-vao-dnh.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-them-sp-vao-pkk.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-thong-bao.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/fashionshop/views/form-xem-chi-tiet-hd.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2FvogqfiIaj9k72xbbwPJt3io8C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Project/FashionShop/src/main/resources/com/example/fashionshop/views",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\FashionShop\src\main\resources\com\example\fashionshop\views" />
+      <recent name="D:\Project\FashionShop\src\main\resources\com\example\fashionshop\pages" />
+      <recent name="D:\Project\FashionShop\src\main\java\com\example\fashionshop\controller" />
+      <recent name="D:\Project\FashionShop\src\main\resources\com\example\fashionshop\cus_comp_views" />
+      <recent name="D:\Project\FashionShop\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\FashionShop\src\main\resources\com\example\fashionshop\pages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.fashionshop.controller" />
+      <recent name="com.example.fashionshop.dao" />
+      <recent name="com.example.fashionshop.impl" />
+      <recent name="com.example.fashionshop.service" />
+      <recent name="com.example.fashionshop.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FashionShopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.fashionshop.FashionShopApp" />
+      <module name="FashionShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.fashionshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FashionShopApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45453d6d-9f0e-43d6-b3c0-e7355c5ace2b" name="Changes" comment="" />
+      <created>1665375630362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665375630362</updated>
+      <workItem from="1666193314732" duration="411000" />
+      <workItem from="1666193864716" duration="1758000" />
+      <workItem from="1666621745818" duration="106000" />
+      <workItem from="1666702083140" duration="17000" />
+      <workItem from="1666718590978" duration="13000" />
+      <workItem from="1666718628169" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
